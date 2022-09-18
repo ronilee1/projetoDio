@@ -7,3 +7,5 @@ git clone > clona repositorio do gitHub na maquina local
 ls > lista os repositorios
 
 cd+nomeDoRepositorio > acessa o repostorio
+
+git push origin main > envia da maquina local para github
