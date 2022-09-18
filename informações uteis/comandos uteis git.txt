@@ -1,0 +1,9 @@
+comandos uteis para usar no git:
+
+git status > mostra pendencias no git
+
+git clone > clona repositorio do gitHub na maquina local
+
+ls > lista os repositorios
+
+cd+nomeDoRepositorio > acessa o repostorio
